@@ -2,7 +2,7 @@
 <html>
 <body>
   
-<form method="post" action="w.php">
+<form method="POST" action="w.php">
 name<input type="text" name="name">
 <input type="submit" name="submit">
 </form>
